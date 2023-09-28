@@ -1,4 +1,4 @@
-from tkinter import*
+from tkinter import* //importing dependecies
 import sys
 import time
 global count
